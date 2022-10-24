@@ -1,6 +1,13 @@
 # console-zip-tools
 Ultimate Compressing and Extracting tool using Python
 
+## What can it do
+
+- Compress Folder
+- Read Zip Data Without Extracting
+- Extract Zip Data
+- Compress same types of file in one folder
+
 ## Setup Using Software
 
 ### Installing Libraries
